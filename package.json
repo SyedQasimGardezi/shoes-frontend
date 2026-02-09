@@ -1,0 +1,8 @@
+{
+  "name": "shoes-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "echo 'Tests are skipped for KAN-22 (no test runner configured).' && exit 0"
+  }
+}
